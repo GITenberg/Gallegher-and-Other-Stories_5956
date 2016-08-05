@@ -1,0 +1,30 @@
+_repo: Gallegher-and-Other-Stories_5956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+tableOfContents: 'Gallegher: a newspaper story -- A walk up the avenue -- My disreputable
+  friend, Mr. Raegen -- The other woman -- The trailer for room no. 8 -- "There were
+  ninety and nine" -- The cynical Miss Catherwaight -- Van Bibber and the swan-boats
+  -- Van Bibber''s burglar -- Van Bibber as best man.'
+title: Gallegher and Other Stories
+url: http://www.gutenberg.org/ebooks/5956
